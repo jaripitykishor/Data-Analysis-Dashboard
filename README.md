@@ -77,24 +77,3 @@ Note: Sample output is given, please make it a meticulous as per the project sta
 
 
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 12 stars
-Watchers
- 1 watching
-Forks
- 3 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-P
